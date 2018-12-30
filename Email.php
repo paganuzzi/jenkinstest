@@ -5,6 +5,6 @@ final class Email
 {
     private function __construct()
     {
-        return true;
+        return 3;
     }
 }

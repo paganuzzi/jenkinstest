@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="EmailTest" file="/home/juan/Code/jenkins/EmailTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.003176">
+    <testcase name="testhola" class="EmailTest" file="/home/juan/Code/jenkins/EmailTest.php" line="8" assertions="1" time="0.003176"/>
+  </testsuite>
+</testsuites>
