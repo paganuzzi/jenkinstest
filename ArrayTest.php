@@ -5,6 +5,6 @@ class ArrayHasKeyTest extends TestCase
 {
     public function testFailure()
     {
-        $this->assertArrayHasKey('baq', ['bar' => 'baz']);
+        $this->assertArrayHasKey('bar', ['bar' => 'baz']);
     }
 }
